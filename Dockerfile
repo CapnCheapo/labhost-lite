@@ -5,6 +5,7 @@ FROM alpine:3.23.3
 LABEL org.opencontainers.image.title="labhost-lite"
 LABEL org.opencontainers.image.description="Alpine-based SSH'able image for containerlab"
 LABEL org.opencontainers.image.licenses="MIT"
+LABEL org.opencontainers.image.source="https://github.com/CapnCheapo/labhost-lite"
 
 RUN apk add --no-cache \
     bash \
