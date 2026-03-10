@@ -21,6 +21,7 @@ RUN apk add --no-cache \
     jq \
     mtr \
     net-tools \
+    open-lldp \
     openssh-client \
     openssh-server \
     socat \
