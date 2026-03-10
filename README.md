@@ -47,6 +47,7 @@ This image is **not** a network operating system and does not attempt to configu
   - `mtr`, `fping`
   - `iperf3`
   - `nmap`
+  - `open-lldp`
   - `socat`
   - `net-tools`
   - `bind-tools` (dig, nslookup)
