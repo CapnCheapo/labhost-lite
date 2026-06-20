@@ -19,6 +19,7 @@ RUN apk add --no-cache \
     iproute2 \
     iputils \
     jq \
+    kmod \
     mtr \
     net-tools \
     open-lldp \
